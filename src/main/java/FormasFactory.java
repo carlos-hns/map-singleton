@@ -42,7 +42,7 @@ public class FormasFactory {
         return trianguloInstances.size();
     }
 
-    public static int getQuantidadeDeInstanciasRetangulos() {
+    public static int getQuantidadeDeInstanciasQuadrados() {
         return quadradoIntancias;
     }
 

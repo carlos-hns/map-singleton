@@ -43,6 +43,6 @@ public class Main {
         System.out.println(quadrado3);
         System.out.println(quadrado4);
         System.out.println(quadrado5);
-        System.out.println("Quantidade de retângulos criadas: " + FormasFactory.getQuantidadeDeInstanciasRetangulos());
+        System.out.println("Quantidade de retângulos criadas: " + FormasFactory.getQuantidadeDeInstanciasQuadrados());
     }
 }
